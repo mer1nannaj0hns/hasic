@@ -1,1 +1,1 @@
-# hasic
+# basic
